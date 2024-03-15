@@ -1,0 +1,20 @@
+{
+    "name": "webapp_blocker88",
+    "version": "1.0.0",
+    "description": "A block tools set for working with Web3 and Ethereum smart contracts.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["web3", "ethereum", "smart contract"],
+    "author": "Gooniez83",
+    "license": "MIT",
+    "dependencies": {
+      "web3": "^1.5.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Gooniez83/webapp_blocker88.git"
+    }
+  }
+  
